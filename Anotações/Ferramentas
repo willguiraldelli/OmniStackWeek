@@ -1,0 +1,12 @@
+
+- Multer
+    Dependencia para upload de imagens para banco de dados, realacionar ou não relacional 
+    
+- Sharp 
+    Dependencia que permite manipular imagens dentro da aplicação 
+
+- socket.io
+    protocolo para tranferencia de dados real time
+
+- react-rounter-dom
+    dependencia para manipulação de URLs 
