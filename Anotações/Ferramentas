@@ -7,6 +7,9 @@
 
 - socket.io
     protocolo para tranferencia de dados real time
+    
+    - socket.io-cliente
+        bibliotca para utilização do socket no lado do cliente - front-end
 
 - react-rounter-dom
     dependencia para manipulação de URLs 

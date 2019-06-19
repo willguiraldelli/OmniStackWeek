@@ -11,6 +11,8 @@ module.exports = {
 
     // salvando atualizações no post
     await post.save();
+    req.io.emit("like", post);
+
     return res.json(post);
   }
 };
