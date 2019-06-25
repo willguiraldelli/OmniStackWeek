@@ -1,4 +1,4 @@
-
+React.js
 - Multer
     Dependencia para upload de imagens para banco de dados, realacionar ou não relacional 
     
@@ -13,3 +13,11 @@
 
 - react-rounter-dom
     dependencia para manipulação de URLs 
+
+    React Native
+    
+- React-navigation 
+    biblioteca para navegação de pagina 
+
+- React-native-gesture-handler 
+    - biblioteca para lidar com gestos de navegação - ex: arrastar da diretira para a esquerda volta uma pagina (iphone)
